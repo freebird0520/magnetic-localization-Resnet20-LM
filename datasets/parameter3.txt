@@ -1,0 +1,6 @@
+a range(-70,10,70) []
+b range(-70,10,70) []
+c range(50,10,110) []
+degX 0 []
+degY range(-90,180,90) []
+degZ 0 []
